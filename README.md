@@ -1,4 +1,4 @@
-[![Deploy Worker](https://github.com/Hosseinsavior/v2ray-worker/actions/workflows/deploy.yml/badge.svg)](https://github.com/Hosseinsavior/v2ray-worker/actions/workflows/deploy.yml)
+
 
 
 # V2Ray Worker
